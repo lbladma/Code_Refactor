@@ -32,6 +32,10 @@ I created the project link/URL thru github pages and made sure it is working and
  
  
  
+Here is the link to my homework repo: https://github.com/lbladma/Codingcamp_hw1
+ 
+Here is the link to my deployed application: https://lbladma.github.io/Codingcamp_hw1/
+ 
  
  
 
