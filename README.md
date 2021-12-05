@@ -1,5 +1,5 @@
 README file
-# CodingCamp_hw1
+# CodingCamp_hw1- Code-Refactor
 This is my first homework project in my codingcamp class.
 The objective of this project is to refactor an existing webpage codebase for a marketing agency to make it more accessible.
 In other words, people with disabilities should be able to navigate the site without any limitations.
